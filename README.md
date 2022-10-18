@@ -27,4 +27,4 @@
 </p>
 
 <h2>Thanks for visiting me</h2>
-<img alt="Nodejs" src="https://komarev.com/ghpvc/?username=kiikechavez" />
+<img alt="Nodejs" src="https://komarev.com/ghpvc/?username=kiikechavez&color=green" />
