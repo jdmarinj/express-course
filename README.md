@@ -2,7 +2,7 @@
 
 <h2>Project cycle 4th deepening web development</h2>
 
-![image](https://user-images.githubusercontent.com/36646104/196064467-35f268a8-3260-4f07-9682-82ac522d3c9f.png)
+![image](https://www.arsys.es/blog/file/uploads/2017/07/apps-Javascript.jpg)
 
 
 <p>Welcome to my page! </br> I'm Enrique, Fullstack developer from <img src="https://user-images.githubusercontent.com/36646104/196065592-42288fe7-df54-4712-982a-c64bce7d8f59.png" width="13"/> <b>Colombia</b></p>
